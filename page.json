@@ -1,1 +1,11 @@
-
+{
+  "name": "Nef",
+  "description": "Internet User",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "http://github.com/not-nef",
+      "icon": "github"
+    }
+  ]
+}
